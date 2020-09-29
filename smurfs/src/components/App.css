@@ -1,3 +1,33 @@
 .App {
   text-align: center;
 }
+.container{
+  display:flex;
+  flex-direction:column;
+  flex-wrap:wrap;
+  justify-content: center;
+  align-items: center;
+}
+main
+  {
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+  }
+body{
+  background: url("https://img.cinemablend.com/filter:scale/quill/a/b/b/0/a/e/abb0aefbe8d4556c0abe2a2c2593286e0ffd016f.png?mw=600");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color:white;
+  font-weight: 900;
+  font-size: large;
+}
+.Smurfform{
+  display:flex;
+    flex-direction:column;
+   
+}
